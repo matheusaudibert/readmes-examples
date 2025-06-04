@@ -1,6 +1,7 @@
 ## Matheus Audibert
 
 Hello, my name is Matheus Audibert and I really like developing software.
+
 I publish my content on my YouTube channel [audibert](https://www.youtube.com/@audibert).
 
 [![SUBSCRIBE](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIO1e3zJ-c2oQCWnmY4nqIQ?color=000000&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ?sub_confirmation=1)
@@ -27,10 +28,10 @@ Technologies and tools
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
-[![DISCORD.JS](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)]()
 [![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
 [![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![API REST](https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white)]()
+[![DISCORD.JS](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)]()
 
 Socials
 
@@ -41,7 +42,6 @@ Socials
 [![GMAIL](https://img.shields.io/badge/contact.matheusaudibert@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact.audibert@gmail.com)
 [![DISCORD](https://img.shields.io/badge/grwx-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1274150219482660897)
 
-Discord
+Join my Discord server
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?borderRadius=0px&bg=000000)](https://discord.com/users/1274150219482660897)
 [![DISCORD SERVER](https://cardzera.onrender.com/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&borderRadius=0&t={timestamp})](https://discord.gg/servidordosprogramadores)
